@@ -1,0 +1,53 @@
+Formazione: AI e MLOps Engineer
+
+Descrizione:
+Il programma si concentra sullo sviluppo,
+ il deploy e il monitoraggio di modelli di machine learning in produzione.
+  Gli studenti imparano a lavorare con strumenti moderni e pipeline automatizzate.
+
+Durata programma: 2 anni (400 crediti YH)
+
+Corsi:
+- Python per AI (40 crediti YH)
+- Machine Learning (60 crediti YH)
+- Deep Learning (50 crediti YH)
+- MLOps e CI/CD (70 crediti YH)
+- Data Engineering (60 crediti YH)
+- Stage LIA (120 crediti YH)
+
+Opportunità di carriera:
+- MLOps Engineer
+- Data Engineer
+- Machine Learning Engineer
+
+Statistiche (ultimo anno):
+- Numero studenti: 120
+- Tasso di diploma: 85%
+- Tasso di occupazione dopo 6 mesi: 78%
+- Stipendio medio: 42000 SEK/mese
+
+---
+
+Formazione: Data Scientist
+
+Descrizione:
+Il programma ti insegna ad analizzare dati, costruire modelli e comunicare insight in modo efficace.
+
+Durata programma: 1.5 anni (300 crediti YH)
+
+Corsi:
+- Python e statistica (50 crediti YH)
+- Analisi dati (60 crediti YH)
+- Machine Learning (70 crediti YH)
+- Visualizzazione dati (40 crediti YH)
+- Stage LIA (80 crediti YH)
+
+Opportunità di carriera:
+- Data Scientist
+- Data Analyst
+
+Statistiche (ultimo anno):
+- Numero studenti: 90
+- Tasso di diploma: 88%
+- Tasso di occupazione dopo 6 mesi: 82%
+- Stipendio medio: 38000 SEK/mese
