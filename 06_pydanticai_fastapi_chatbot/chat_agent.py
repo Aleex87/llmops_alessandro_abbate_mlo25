@@ -1,6 +1,7 @@
 from pydantic_ai import Agent
 from dotenv import load_dotenv
 from constant import MODEL_SMALL, MODEL_MEDIUM, MODEL_LARGE
+from data_models import ChatRequest, ChatResponse
 
 #override eventual cahching
 load_dotenv(override=True)
@@ -9,3 +10,7 @@ agent = Agent(model=MODEL_SMALL,
                retries=1
                )
 
+async def chat(request: ChatRequest):
+    result= await agent.run(request.question, message_history=request.message_history)
+    return ChatResponse(response=result.output, message_history=result.all_messages)
+    
