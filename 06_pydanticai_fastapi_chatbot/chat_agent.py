@@ -12,5 +12,5 @@ agent = Agent(model=MODEL_SMALL,
 
 async def chat(request: ChatRequest):
     result= await agent.run(request.question, message_history=request.message_history)
-    return ChatResponse(response=result.output, message_history=result.all_messages)
+    return ChatResponse(response=result.output, message_history=result.all_messages())
     
